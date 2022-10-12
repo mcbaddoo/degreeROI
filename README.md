@@ -1,3 +1,3 @@
 Executing k-means clustering analysis to determine which college majors produce the highest return on investment (ROI).
-  - Comparing recommendations from the Elbow Method, Silhouette Method and Gap Statistic Method to select the optimal number of clusters.
-  - Utilizing data visualization to determine what the clusters obtained from the k-means algorithm indicate about the relationship between starting- and       mid-career salaries and overall salary potential.
+  - Employing the Elbow Method, Silhouette Method and Gap Statistic Method to establish three clusters as the optimal number of         clusters for modeling.
+  - Utilizing the k-means algorithm and data visualization to determine a positive linear relationship between starting- and mid-       career salaries, limited growth opportunity for liberal arts majors, highest growth potential in highly technical majors, and       greatest differential between extremes in percentiles for majors considered “in the middle”.
