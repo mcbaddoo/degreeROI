@@ -1,3 +1,3 @@
-Executed k-means clustering analysis on a dataset of 1.2 million individuals with exclusively a bachelor's degree to determine which college majors produce the highest return on investment (ROI).
+Executed k-means clustering analysis on a dataset of 1.2 million individuals with exclusively a bachelor's degree to determine which college majors result in the highest return on investment (ROI) for salary.
   - Employed 3 different techniques (Elbow Method, Silhouette Method and Gap Statistic Method) to establish 3 clusters as optimal for modeling and most         comprehensive of the dataset’s variance.
   - Utilized the k-means algorithm and data visualization to determine a limited growth opportunity for liberal arts majors, greatest financial security in     highly technical majors, largest growth opportunity for majors considered “in the middle” (ie. math and philosophy) and a significantly positive           relationship between starting- and mid-career salaries.
